@@ -4,4 +4,5 @@ create digital products with ai
 ver la tienda de ejemplo SweetShopDesing
 ver la tienda de ejemplo PapersByHelen
 usar el programa midjourney
+usar una herramienta de edicion como photopea
 
